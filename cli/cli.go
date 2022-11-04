@@ -8,10 +8,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/alecthomas/chroma/v2/styles"
+	"github.com/Hiroya-W/chroma/v2/styles"
+	"github.com/Hiroya-W/germanium"
 	"github.com/golang/freetype/truetype"
 	flags "github.com/jessevdk/go-flags"
-	"github.com/Hiroya-W/germanium"
 	findfont "github.com/matsuyoshi30/go-findfont"
 	"github.com/skanehira/clipboard-image/v2"
 	"golang.org/x/image/font"
