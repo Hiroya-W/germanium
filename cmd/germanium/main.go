@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/matsuyoshi30/germanium/cli"
+	"github.com/Hiroya-W/germanium/cli"
 )
 
 var exit = os.Exit

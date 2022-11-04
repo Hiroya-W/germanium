@@ -11,7 +11,7 @@ import (
 	"github.com/alecthomas/chroma/v2/styles"
 	"github.com/golang/freetype/truetype"
 	flags "github.com/jessevdk/go-flags"
-	"github.com/matsuyoshi30/germanium"
+	"github.com/Hiroya-W/germanium"
 	findfont "github.com/matsuyoshi30/go-findfont"
 	"github.com/skanehira/clipboard-image/v2"
 	"golang.org/x/image/font"
